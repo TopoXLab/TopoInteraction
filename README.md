@@ -2,8 +2,8 @@
 This repository contains the implementation for our work "Learning Topological Interactions for Multi-Class Medical Image Segmentation", **accepted by ECCV2022 (Oral)**. 
 
 ## Method
-The loss function is for topological constraints: containment and exclusion. 
-![An overview of the method is here.](pipeline-fig.pdf?raw=true)
+The loss function is for topological constraints: containment and exclusion. An overview of the method is as shown in the figure.
+![Overview](pipeline-fig.png?raw=true)
 
 ## Installation
 The loss can be applied to the training of any model. The code is written in PyTorch.
