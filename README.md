@@ -1,5 +1,5 @@
 # TopoInteraction
-This repository contains the implementation for our work "Learning Topological Interactions for Multi-Class Medical Image Segmentation", **accepted by ECCV2022 (Oral)**. 
+This repository contains the implementation for our work "Learning Topological Interactions for Multi-Class Medical Image Segmentation", **accepted to ECCV2022 (Oral)**. 
 
 ## Method
 The loss function is for topological constraints: containment and exclusion. An overview of the method is as shown in the figure.
