@@ -45,3 +45,15 @@ The loss can be applied to the training of any model. The code is written in PyT
         ti_loss_value = ti_loss_weight * ti_loss_value
         print("ti_loss_value: ", ti_loss_value)
 
+## Citation
+If you found this work useful, please consider citing it as
+```
+@inproceedings{gupta2022learning,
+  title={Learning Topological Interactions for Multi-Class Medical Image Segmentation},
+  author={Gupta, Saumya and Hu, Xiaoling and Kaan, James and Jin, Michael and Mpoy, Mutshipay and Chung, Katherine and Singh, Gagandeep and Saltz, Mary and Kurc, Tahsin and Saltz, Joel and others},
+  booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part XXIX},
+  pages={701--718},
+  year={2022},
+  organization={Springer}
+}
+```
