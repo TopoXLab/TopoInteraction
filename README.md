@@ -55,7 +55,7 @@ The proposed method is a loss function and can be used with any network backbone
 In the paper, we evaluated our method on 4 datasets. The aorta dataset is a private dataset and is not publicly available. The remaining 3 datasets can be found as follows:
 - [Multi-Atlas](https://www.synapse.org/#!Synapse:syn3193805/wiki/217753) and its [test-set GT](https://zenodo.org/record/1169361#.ZCr_HvbMJD8) : The GT was improved with consultation with clinicians so as to maintain the `Exclusion' property. 
 - [SegTHOR](https://competitions.codalab.org/competitions/21145#learn_the_details-dataset) : As the test set is unavailable, we randomly created a split of 30 training volumes and 10 testing volumes from the given 40 training volumes.
-- [IVUS](https://reader.elsevier.com/reader/sd/pii/S0895611113001298?token=E6A92E125CF58124BF9D9381EA4DEEB92CF57D9231A75CB60CF66FD89B941C4856A060A5F6CD8E33DA82A72A789FFA17&originRegion=us-east-1&originCreation=20230403162619) : We use Dataset B in this work. We use this dataset with permission from the authors.
+- [IVUS](https://repository.ubn.ru.nl/bitstream/handle/2066/136858/1/136858.pdf) : We use Dataset B in this work. We use this dataset with permission from the authors.
 
 ## Citation
 If you found this work useful, please consider citing it as
